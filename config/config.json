@@ -1,0 +1,9 @@
+{
+    "sql_server": {
+        "server": "db1.bobitweb.com\\sql1",
+        "database": "ReportingAnalytics",
+        "username": "dbuserReportingAnalytics",
+        "password": "@3{)f@dN3>FwsAT0m6N%",
+        "table_name": "GA4_General_Report"
+    }
+}
